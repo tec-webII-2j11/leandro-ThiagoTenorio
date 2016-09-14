@@ -1,0 +1,239 @@
+@media screen and (max-width: 1600px){
+
+p{font-family: Open Sans;font-size: 18pt;color:black;}
+
+h1{
+    font-family:Ubuntu;
+    width: 1024px;
+    margin: auto;
+    Text-align: center;
+}
+
+#borda{
+     border-bottom: 10px;
+     border-bottom-color: black;
+     border-bottom-style: solid;
+    }
+    
+#telltale img{
+    max-width: 500px;
+}
+    
+#telltale{
+    text-align: center;
+}
+    
+#epimg{
+    text-align: center;
+}
+    
+#videoscream{
+    text-align: center;
+}
+    
+#spoiler{
+    text-align: center;
+}
+    
+#produtores{
+    font-size: 20pt;
+    text-align: center;
+}    
+    
+#produtores img{
+    max-height: 300px;
+}
+    
+    
+#mack {
+    text-align: center;
+}
+    
+#mack img{
+     max-height:100px ;
+}
+    
+#img_assistaon{
+    text-align: center;
+}
+    
+#atores{
+    font-family: ubuntu;
+}
+    
+#links{
+    font-family: ubuntu;
+    text-align: center;
+}
+    
+#IMGgaleria img{
+    max-height: 2000px;
+}
+    
+#IMGgaleria{
+    Text-align: center;
+}
+    
+    #darylH{
+      Text-align: center;  
+    }
+    #carolH{
+      Text-align: center;
+    }
+    #carlH{
+      Text-align: center;
+    }
+    #glennH{
+      Text-align: center;
+    }
+    #rickH{
+      Text-align: center;
+    }
+    #shaneH{
+      Text-align: center;
+    }
+    #tdogH{
+      Text-align: center;
+    }
+    #loriH{
+      Text-align: center;
+    }
+    #andreaH{
+      Text-align: center;
+    }
+    #morganH{
+      Text-align: center;
+    }
+    
+    
+body{
+    width: auto;
+    background-image: url(Imagens/TWDbanner.jpg)
+}
+.corpo{
+    background-color: rgba(255,255,255,0.8);
+    width: 1024px;
+    margin: auto;
+}
+
+.centro{
+    width: 1024px;
+    margin: auto;
+}
+    
+.drop{
+    margin: auto;
+    width: 1024px;
+    background-color: darkred;
+}
+
+header{
+    margin: auto;
+    width: 1024px;
+    background-image: url(Imagens/twdbg.png);
+}
+    
+.bg {
+    width: 1024px;
+    margin: auto;
+}
+    
+.imgtest{
+    margin: auto;
+    width: 639px;
+}
+
+.menu{
+    margin: 0; 
+    padding: 0;
+    background-color:darkred;
+	
+    font-family: impact, helvetica, sans-serif;
+    font-size: 25px;
+
+    list-style:none;
+    border:1px solid #000;  
+    float:left;
+  
+}
+
+.menu li{
+    position:relative; 
+    float:left; 
+    border-right:1px solid #000; 
+}
+
+.menu li a{
+    color:#000; 
+    text-decoration:none; 
+    padding:10px 38px; 
+    display:block; 
+}
+
+.menu li a:hover{
+    background:#000; 
+    color:#fff; 
+}
+
+.menu li  ul{
+    position:absolute; 
+    left:0; 
+    display:none; 
+} 
+    
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.menu li ul li{
+    background-color: darkred;
+    border:1px solid #000; 
+    display:block; 
+    width:200px;
+}
+    
+}
+
+#daryl{position:relative;}
+#daryl:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#carl{position:relative;}
+#carl:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#carol{position:relative;}
+#carol:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#lori{position:relative;}
+#lori:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#rick{position:relative;}
+#rick:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#shane{position:relative;}
+#shane:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#glenn{position:relative;}
+#glenn:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#andrea{position:relative;}
+#andrea:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#tdog{position:relative;}
+#tdog:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+#morgan{position:relative;}
+#morgan:hover{top:-10px;box-shadow:8px 8px 8px #999;
+   transition: all .2s ease-in-out}
+
+
+
+
+
+
