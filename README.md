@@ -18,6 +18,6 @@ com novidades e mudanças.
 
 Usuário Visitante: Apenas visualiza as páginas, não permite fazer qualquer interação.
 
-Mapa de Navegação: Teste
+Mapa de Navegação:
 
 Wireframe:
